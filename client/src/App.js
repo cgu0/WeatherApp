@@ -8,4 +8,4 @@ const App = () => (
       </BackgroundImage>
 );
 
-export default App;
+export default App; 
